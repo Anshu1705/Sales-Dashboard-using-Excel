@@ -38,7 +38,8 @@ Welcome to the 'Vrinda Store Report 2022' project! Our goal with this project wa
 
 
 
-[Vrinda.Store.Data.Analysis.Projecttt.xlsx](https://github.com/user-attachments/files/15807271/Vrinda.Store.Data.Analysis.Projecttt.xlsx) 
+[VrindaVrinda Annual Sales Dashboard.xlsx](https://github.com/user-attachments/files/15807380/Vrinda.Annual.Sales.Dashboard.xlsx)
+
 
 
 
