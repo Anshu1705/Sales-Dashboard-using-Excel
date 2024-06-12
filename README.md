@@ -5,7 +5,7 @@ Welcome to the 'Vrinda Store Report 2022' project! Our goal with this project wa
 
 
 
-Features:
+# Report Insights
 
 (1) The report reveals a notable trend: female customers exhibit a higher likelihood of purchasing, constituting a significant majority at 65% compared to male customers.
 
@@ -27,7 +27,9 @@ Features:
 
 
 (1) Clone this repository to your local machine.
+
 (2) Open the Excel file Sales_Dashboard.xlsx to explore the dashboard.
+
 (3) Dive into the Data folder to access the raw dataset.
 
 
@@ -49,7 +51,9 @@ By synthesizing the report insights, a clear strategy emerges to enhance store s
 
 
 (1) Objective: To transform raw sales data into actionable insights.
+
 (2) Tools Used: Microsoft Excel
+
 (3) Skills Demonstrated: Data analysis, visualization, dashboard design.
 
 
